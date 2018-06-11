@@ -13,7 +13,7 @@ Scheduled Post Twitter User Timeline Tweets To Facebook Page
 ### CONFIGURATION
 * Create an app on facebook [Facebook developers](https://developers.facebook.com/apps/)   
 * Get page access token of facebook page by following this [StackOverflow Link](https://stackoverflow.com/a/43570120)
-* Create an app on [twitter] (https://apps.twitter.com)
+* Create an app on [twitter](https://apps.twitter.com)
 * Get Consumer key , Consumer secret, Access key and Access secret of your twitter app
 * Fill the fields in config.ini ,put user name of twitter account in handle field
 * If you are hosting this script on Redhat Openshift Online also fill the persistent_mount_point field else leave it empty
