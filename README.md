@@ -11,7 +11,6 @@ Scheduled Post Twitter User Timeline Tweets To Facebook Page
 * python 3.4 or above
 
 ### CONFIGURATION
-* Create your bot and Get your telegram bot token from [BotFather](https://core.telegram.org/bots#botfather)
 * Create an app on facebook [Facebook developers](https://developers.facebook.com/apps/)   
 * Get page access token of facebook page by following this [StackOverflow Link](https://stackoverflow.com/a/43570120)
 * Create an app on twitter [https://apps.twitter.com]
