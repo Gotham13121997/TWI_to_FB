@@ -1,5 +1,5 @@
 # TWI_to_FB
-Schedule Publishing Twitter User Timeline Tweets To Facebook Page.  
+Schedule Publishing Twitter User Tweets To Facebook Page.  
 
 This helps you in automating the task of posting on a facebook page. By default configured for  
 daily post publishing. It fetches new tweets from any twitter handle(by default every sunday GMT) as the source of posts.  
